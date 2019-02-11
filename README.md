@@ -1,3 +1,2 @@
 # MyfirirstPro
-my first git hub hello world project
-i will write in progress
+I am kalkidan alesew. i am begginer programmer on git hub
